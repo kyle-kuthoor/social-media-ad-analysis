@@ -1,5 +1,5 @@
 # Social Media Advertising Performance Analysis
-
+## View Notebook [Click here to view the full notebook](https://nbviewer.org/github/kyle-kuthoor/social-media-ad-analysis/blob/main/social-media-ad-analysis.ipynb)
 ## Overview
 An exploratory data analysis of 255,000 social media ad campaigns 
 across Instagram, Facebook, Twitter, and Pinterest. The analysis 
